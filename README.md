@@ -52,3 +52,9 @@ Special instructions:
 ![Either set the printer as PDF or PostScript](assets/4.png)
 
 *Either set the printer as PDF or PostScript*
+
+## Licence 
+
+The code (within this repository) is licensed under the MIT license. 
+
+Documentation and images are licensed under [OGL v3](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). 

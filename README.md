@@ -1,6 +1,6 @@
 # Print to Notify 
 
-This is a Proof of Concept which transforms [Gov.uk Notify](https://www.notifications.service.gov.uk) into a print server for letters. 
+This is a Proof of Concept which transforms [gov.uk Notify](https://www.notifications.service.gov.uk) into a print server for letters. 
 
 The idea being that in order to mail a letter, you simply need to hit print. 
 
@@ -38,13 +38,17 @@ Special instructions:
 ### Screenshots for printer installation 
 
 ![The `system-config-printer` utility](assets/1.png)
+
 *The `system-config-printer` utility*
 
 ![Specifying the 'printer' address](assets/2.png)
+
 *Specifying the 'printer' address*
 
 ![Choosing the 'Generic' print driver](assets/3.png)
+
 *Choosing the 'Generic' print driver*
 
 ![Either set the printer as PDF or PostScript](assets/4.png)
+
 *Either set the printer as PDF or PostScript*

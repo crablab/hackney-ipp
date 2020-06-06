@@ -25,7 +25,7 @@ Special instructions:
 
 - Install the required Python packages
 - Download `ipp-server` and place it in this directory (ie. `hackney-ipp/ipp-server`)
-- Create a `.env` file with `NOTIFY_KEY="{your_key_here}"` in the main directory 
+- Create a `.env` file with `NOTIFY_KEY="{your_key_here}"` in the this directory 
 - Run `./run.sh` (you may need to `chmod +x run.sh` first if you get a permissions error)
 - Add the printer. To do this locally to your machine the connection string you'll need is: `ipp://localhost:7777`. It will also be available on your network at your IP address. 
 
